@@ -1,0 +1,4 @@
+# dsh-deepseek-card bundle patch：挂载到 web profile
+- insert:
+    - id: deepseek-card
+      name: dsh-deepseek-card
